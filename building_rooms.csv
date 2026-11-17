@@ -1,0 +1,7 @@
+﻿room_id,floor,room_name,area_m2,x_m,y_m,width_m,height_m,capacity_people,room_type
+R101,1,Lobby,80,0,0,10,8,35,public
+R102,1,Meeting Room,40,11,0,8,5,12,meeting
+R201,2,Office A,60,0,0,10,6,18,office
+R202,2,Office B,60,11,0,10,6,18,office
+R301,3,Conference Room,100,0,0,12,8,40,meeting
+R302,3,Server Room,30,13,0,7,5,0,critical
